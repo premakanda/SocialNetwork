@@ -1,0 +1,9 @@
+.Content_user {
+    display: flex;
+    margin-bottom: 20px;
+}
+.Content_user_img {
+    width: 150px;
+    height: 100px;
+    margin-right: 30px;
+}

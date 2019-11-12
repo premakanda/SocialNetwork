@@ -1,0 +1,9 @@
+.Content_message {
+    display: flex;
+}
+
+.Content_message_img {
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 50px;
+}

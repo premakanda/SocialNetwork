@@ -1,0 +1,27 @@
+.Content {
+    width: 65%;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.Content_post {
+    margin-bottom: 30px;
+}
+.Content_img {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+    background-color: #f1f1f1;
+    margin-bottom: 10px;
+}
+
+.Content_post_button {
+    display: block;
+    border: none;
+    margin-left: auto;
+    padding: 5px 15px;
+    color: #fff;
+    background-color: #31415A;
+}

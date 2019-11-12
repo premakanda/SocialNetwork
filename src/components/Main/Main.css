@@ -1,0 +1,8 @@
+.Main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ContentWrapper {
+    width: 70%;
+}

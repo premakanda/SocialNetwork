@@ -1,0 +1,25 @@
+.navBar {
+    width: 28%;
+    padding: 30px 10px;
+    background-color: #fff;
+}
+
+.navbar_nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar_nav li {
+    margin-bottom: 10px;
+}
+
+.navbar_link {
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+
+.active {
+    color: gold;
+}
